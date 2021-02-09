@@ -1,0 +1,18 @@
+Assignment 2:-
+
+que 1)
+ Ans:-
+    The 1st loop is 0(n) and the 2nd loop is 0(m).Since we don't know which
+is bigger,we say this is 0(n+m). This can also be written as 0(max(n,m)).
+   Since there is no additional space being utilized,the space complexity is
+constant/0(1).
+
+que2)
+Ans:-
+    In asymptotic analysis we cdr growth of algorithm in terms of input-size.
+An algorithm X is said to be asymptotically better than Y if X takes smaller
+time than y for all input sizes n larger than a vlue no where no>0.
+
+que3)
+Ans:-
+     
